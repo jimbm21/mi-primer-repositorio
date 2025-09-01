@@ -1,2 +1,2 @@
-# Actualizar README
+# Repositorio para practicar git pull
 Mi primer repositorio en GitHub
