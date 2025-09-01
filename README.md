@@ -1,2 +1,2 @@
-# Repositorio para practicar git pull
+# Repositorio de práctica
 Mi primer repositorio en GitHub
